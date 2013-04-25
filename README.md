@@ -8,7 +8,7 @@ This package contains:
 - 'ydec.js' a yenc decoder.
 - 'sbmh.js' wich is [mscdex/streamsearch](http://github.com/mscdex/streamsearch).
 
-# Secial nodes
+# Secial notes
 
 - The file 'sbmh.js' is [mscdex/streamsearch](http://github.com/mscdex/streamsearch). All others are my.
 - The NNTP implementation contains some code from [mscdex/node-nntp](http://github.com/mscdex/node-nntp).
